@@ -1,0 +1,18 @@
+.header {
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  color: #fff !important;
+}
+
+.nav-link {
+  color: #d1d1d1 !important;
+}
+
+.nav-link.active {
+  color: #fff !important;
+  background-color: #495057;
+  border-radius: 5px;
+}
